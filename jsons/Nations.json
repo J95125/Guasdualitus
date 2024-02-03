@@ -1,31 +1,30 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Gobierno Central",
+		"leaderName": "Jose M. Romero Chema",
+		"adjective": ["oficial"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Cultural",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		
+		"declaringWar": "Te has vuelto contra mi Autoridad, la justicia caera sobre ti",
+		"attacked": "Escuálido! tu conspiración terrorista y traicion seran castigados!",
+		"defeated": "Sin mi la anarquía total reinara sobre estos llanos. Adiós",
+		"introduction": "Te doy la bienvenida a mi querido Guasdualito, epicentro de los llanos occidentales y gran lugar de cultura ",
 		
 		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralLetsHearIt": ["Vamos.","Habla Chamo","Dilo."],
+		"neutralNo": ["Esto es no es de mi agrado.","No!","Denegado."],
+		"neutralYes": ["De eso hablo.","Por supuesto.","Se te agradece este trato."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "¿Que quieres, traidor insolente?",
+		"hateLetsHearIt": ["Habla!","Habla claro!","Dímelo!."],
+		"hateNo": ["No eres bienvenido ","No puedo con eso, vete","Perdón? imposible!"],
+		"hateYes": ["Claro, claro","Ya nos vamos entendiendo...","Muy Bien..."],
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "La paz sea contigo.",
+		"tradeRequest": "Le he anunciado a la gente sobre un buen trato comercial, no me defraudes .",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
