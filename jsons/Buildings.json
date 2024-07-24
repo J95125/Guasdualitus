@@ -1,16 +1,17 @@
 [
 	{
-		"name": "Holodeck",
-		"replaces": "Circus Maximus",
-		"uniqueTo": "Aliens",
-		"cost": 480,
-		"happiness": 12,
-		"culture": 12,
-		"science": 12,
-		"maintenance": 96,
-		"isNationalWonder": true,
-		"requiredBuildingInAllCities": "Colosseum",
-		"requiredTech": "Horseback Riding"
+		"name": "Comuna",
+		"replaces": "Market",
+		"uniqueTo": "Gobierno Central",
+		"cost": 150,
+		"happiness": 2,
+		"culture": 1,
+		"science": 0,
+		¨gold¨: 
+		"maintenance": 1,
+		"isNationalWonder": false,
+	
+		"requiredTech": "Currency"
 	},
 	{
 		"name": "Breeders",
